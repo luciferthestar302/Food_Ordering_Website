@@ -1,5 +1,5 @@
-# 🥘 Food Order Website Complete Course
-In this course, you'll learn to Create a Complete Dynamic and Fully Functional Website using PHP prrogramming language and MySQL Database.
+# 🥘 Food Order Website 
+Created a Complete Dynamic and Fully Functional Website using PHP prrogramming language and MySQL Database.
 
 
 # ⚙️ Technology Used
@@ -22,11 +22,9 @@ In this course, you'll learn to Create a Complete Dynamic and Fully Functional W
 
 
 
-## 📖  How to Download the Project and Run on your PC?
 
-### Pre-Requisites:
 
-1. Download and Install XAMPP
+ Install XAMPP
 
 [Click Here to Download](https://www.apachefriends.org/index.html)
 
